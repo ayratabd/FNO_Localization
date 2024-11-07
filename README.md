@@ -5,11 +5,18 @@ Seismologists recognize the localization of earthquakes as a primary and complex
 
 ![Method](https://github.com/ayratabd/FNO_Localization/blob/main/FNO.png)
 
-## Libraries
+## 1. Libraries
 The scripts work with Pytorch 2.1.1.
 
+## 2. Installation
 
-## Citation
+Create an environment with conda for FNO
+```
+conda env create -f environment.yml
+conda activate fno_loc
+```
+
+## 3. Citation
 If you find our work useful in your research, please cite:
 ```
 @article{abdullin2024fnoloc,
