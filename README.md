@@ -19,13 +19,12 @@ conda activate fno_loc
 ## 3. Citation
 If you find our work useful in your research, please cite:
 ```
-@article{abdullin2024fnoloc,
+@article{abdullin2025microseismic,
   title={Microseismic source localization using Fourier Neural Operator with application to field data from Utah FORGE},
-  author={Abdullin, Ayrat and bin Waheed, Umair and Suleymanli, Kanan and Stanek, Frantisek},
+  author={Abdullin, Ayrat and Waheed, Umair Bin and Suleymanli, Kanan and Stanek, Frantisek},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
-  pages={},
-  year={2024},
-  publisher={Elsevier}
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
